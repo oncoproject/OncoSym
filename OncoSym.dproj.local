@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.985,=D:\!!work\OncoProject\Delphi\OncoSym\SvrUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,=D:\!!work\OncoProject\Delphi\OncoSym\SvrUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,C:\Users\Grzegorz\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\!!work\OncoProject\Delphi\OncoSym\OncoSym.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,D:\!!work\OncoProject\Delphi\OncoSym\SvrUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,D:\!!Work\OncoProject\Delphi\OncoSym\Unit1.dfm=D:\!!Work\OncoProject\Delphi\OncoSym\SymulKPUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,=D:\!!work\OncoProject\Delphi\OncoSym\SimpSock_Tcp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,D:\!!work\OncoProject\Delphi\OncoSym\SvrUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,=D:\!!work\OncoProject\Delphi\OncoSym\SvrUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,=D:\!!Work\OncoProject\Delphi\OncoSym\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\Grzegorz\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\!!work\OncoProject\Delphi\OncoSym\MainSvr.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,=C:\Users\Grzegorz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\Grzegorz\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\!!work\OncoProject\Delphi\OncoSym\MainSvr.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=C:\Users\Grzegorz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,=D:\!!work\OncoProject\Delphi\OncoSym\ClientUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,D:\!!Work\OncoProject\Delphi\OncoSym\Unit1.pas=D:\!!Work\OncoProject\Delphi\OncoSym\SymulKPUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=D:\!!work\OncoProject\Delphi\OncoSym\ClientUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,D:\!!work\OncoProject\Delphi\OncoSym\ClientUnit.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,11 @@
+__history
+*.dcu
+*.zip
+*.~*
+
+CVS
+Entries
+Repository
+Root
+Template
+Entries.*
